@@ -32,7 +32,7 @@ with open("story.txt","r") as f1:
 print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
-![output](<Screenshot 2024-05-12 190424.png>)
+![OUTPUT](<Screenshot 2024-05-12 192725.png>)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
